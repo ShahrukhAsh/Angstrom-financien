@@ -9,7 +9,7 @@ Volg onderstaand stappenplan om de transacties bij de Rabobank te downloaden.
 ![alt text](figuren/stap1.png)
 3. Links op het scherm is nu 'Downloaden transacties' zichtbaar, klik hier op.
 ![alt text](figuren/stap2.png)
-4. Stel vervolgens de instellingen in zoals is weergegeven in onderstaande screenshot.
+4. Stel vervolgens de instellingen in zoals deze zijn weergegeven in onderstaande screenshot.
 ![alt text](figuren/stap3.png)
 5. Klik op 'Bestand downloaden' en sla het bestand op in dezelfde folder als waar het python script staat opgeslagen.
 6. Voer het Python script uit.
