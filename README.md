@@ -1,7 +1,7 @@
-* Ångström financien
+*Ångström financien
 Dit script zet de transactions.csv welke zijn gedownload via de Rabobank om naar een gebruiksvriendelijk Excel bestand.
 
-** Hoe te gebruiken
+**Hoe te gebruiken
 Volg onderstaand stappenplan om de transacties bij de Rabobank te downloaden.
 
 1. Open de website van de [Rabobank](https://www.rabobank.nl/bedrijven/)
