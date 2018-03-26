@@ -18,4 +18,6 @@ Volg onderstaand stappenplan om de transacties bij de Rabobank te downloaden.
 
 ## Controle van de transacties
 Om stap 7 iets nader te specificeren is er in onderstaand figuur een voorbeeld van de controle te zien. Het linker Excel sheet is het bestand waar de administratie in word gedaan. Hier is te zien dat de laatste geadministreerde transactie is op datum *08-02-2018* van tegenrekening *NL85...*. In het middelste gedeelte is het transactie overzicht op de website van de Rabobank zichtbaar. Wanneer deze vergeleken word met de linker sheet dan is te zien dat de eerste transactie op *08-02* met rekeningnummer *NL85...* is geadministreerd. Vervolgens heeft er op *08-02* een transactie plaatsgevonden met *NL04...*. Deze staat niet in de linker sheet! De gedownloade transacties moeten dus bij deze transactie beginnen. Dit is het geval en het is zichtbaar in de rechter sheet. Hier is een transactie op *08-02-2018* met tegenrekening *NL04...*. 
+
+Het downloaden en omzetten van de transacties is dus succesvol. Het rechtersheet kan gekopieerd worden (CTRL+C) en geplakt worden onder het einde van de linker sheet (CTRL+V).
 ![alt text](figuren/stap5.png)
