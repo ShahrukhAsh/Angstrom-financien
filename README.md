@@ -6,9 +6,9 @@ Volg onderstaand stappenplan om de transacties bij de Rabobank te downloaden.
 
 1. Open de website van de [Rabobank](https://www.rabobank.nl/bedrijven/)
 2. Ga naar het tabblad 'Internetbankieren' en klik op de betreffende rekening.
-[center]
+<center>
 ![alt text](figuren/stap1.png)
-[/center]
+</center>
 3. Links op het scherm is nu 'Downloaden transacties' zichtbaar, klik hier op.
 [center]
 ![alt text](figuren/stap2.png)
