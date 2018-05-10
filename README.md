@@ -27,4 +27,4 @@ Om stap 7 iets nader te specificeren is er in onderstaand figuur een voorbeeld v
 Het downloaden en omzetten van de transacties is dus succesvol. Het rechtersheet kan gekopieerd worden en worden geplakt onder het einde van de linker sheet.
 
 ## -- Euro-incasso Adresboek -- 
-Dit [notebook](Euro-incasso adresboek/EU-Incasso_adresboek_maken.ipynb) zet het ledenbestand in de 'input' folder om naar een .csv bestand welke bij de Rabobank geimporteerd kan worden in het EU incasso adresboek.
+Dit ![notebook](Euro-incasso adresboek/EU-Incasso_adresboek_maken.ipynb) zet het ledenbestand in de 'input' folder om naar een .csv bestand welke bij de Rabobank geimporteerd kan worden in het EU incasso adresboek.
