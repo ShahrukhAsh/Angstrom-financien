@@ -1,8 +1,15 @@
 # Ångström financiën
-In deze repository zit code welke gebruikt word bij de financiën van Ångström.
+In deze repository zit code welke gebruikt word bij de financiën van Ångström. Sommige code zal in de vorm van een .py bestand zijn. Echter komen er ook [Jupyter Notebooks](http://jupyter.org) voor, daar waar dat handiger is. Lees [hier](http://jupyter.readthedocs.io/en/latest/install.html) hoe je Jupyter installeert op je computer. In het kort installeer [Python3](https://www.python.org/). Open (op Windows) [CMD](https://en.wikipedia.org/wiki/Cmd.exe) als administrator (navigator? op macOS) en typ het volgende:
+`pip3 install jupyter`
+En voor bijvoorbeeld libraries:
+`pip3 install pandas`
+`pip3 install numpy`
+Om de notebook de starten kan `jupyter notebook` getypt worden, of run het run_notebook.bat bestand in de folder van de betreffende notebook.
+
+
 
 ## -- Transacties --
-Dit script zet de transactions.csv welke zijn gedownload via de Rabobank om naar een gebruiksvriendelijk Excel bestand. Hierdoor kunnen de transacties zoals deze in de Rabobank afschriften staan direct gebruikt kunnen worden in Excel voor de administratie van de financiën.
+Dit script zet de transactions.csv welke zijn gedownload via de Rabobank om naar een gebruiksvriendelijk Excel bestand. Hierdoor kunnen de transacties zoals deze in de Rabobank afschriften staan direct gebruikt worden in Excel voor de administratie van de financiën.
 
 ### Hoe te gebruiken
 Volg onderstaand stappenplan om de transacties bij de Rabobank te downloaden.
