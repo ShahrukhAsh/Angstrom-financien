@@ -1,5 +1,6 @@
 # Ångström financiën
-In deze repository zit code welke gebruikt word bij de financiën van Ångström. Sommige code zal in de vorm van een .py bestand zijn. Echter komen er ook [Jupyter Notebooks](http://jupyter.org) voor, daar waar dat handiger is. Lees [hier](http://jupyter.readthedocs.io/en/latest/install.html) hoe je Jupyter installeert op je computer. In het kort installeer [Python3](https://www.python.org/). Open (op Windows) [CMD](https://en.wikipedia.org/wiki/Cmd.exe) als administrator (navigator? op macOS) en typ het volgende: \
+In deze repository zit code welke gebruikt word bij de financiën van Ångström. Sommige code zal in de vorm van een .py bestand zijn. Echter komen er ook [Jupyter Notebooks](http://jupyter.org) voor, daar waar dat handiger is. Lees [hier](http://jupyter.readthedocs.io/en/latest/install.html) hoe je Jupyter installeert op je computer. Een korte uitleg: \
+Installeer [Python3](https://www.python.org/). Open (op Windows) [CMD](https://en.wikipedia.org/wiki/Cmd.exe) als administrator (navigator? op macOS) en typ het volgende: \
 `pip3 install jupyter` \
 En voor bijvoorbeeld libraries: \
 `pip3 install pandas` \
