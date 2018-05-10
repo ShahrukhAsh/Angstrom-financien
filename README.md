@@ -2,7 +2,7 @@
 ...
 
 
-## Transacties
+## -- Transacties --
 Dit script zet de transactions.csv welke zijn gedownload via de Rabobank om naar een gebruiksvriendelijk Excel bestand. Hierdoor kunnen de transacties zoals deze in de Rabobank afschriften staan direct gebruikt kunnen worden in Excel voor de administratie van de financiën.
 
 ### Hoe te gebruiken
@@ -26,5 +26,5 @@ Om stap 7 iets nader te specificeren is er in onderstaand figuur een voorbeeld v
 ![alt text](figuren/stap5.png)
 Het downloaden en omzetten van de transacties is dus succesvol. Het rechtersheet kan gekopieerd worden en worden geplakt onder het einde van de linker sheet.
 
-## Euro-incasso Adresboek
-[Rabobank](https://www.rabobank.nl/bedrijven/)
+## -- Euro-incasso Adresboek -- 
+Dit [notebook](Euro-incasso adresboek/EU-Incasso_adresboek_maken.ipynb) zet het ledenbestand in de 'input' folder om naar een .csv bestand welke bij de Rabobank geimporteerd kan worden in het EU incasso adresboek.
